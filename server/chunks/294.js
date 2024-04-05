@@ -1,0 +1,1 @@
+"use strict";exports.id=294,exports.ids=[294],exports.modules={7294:(e,t,o)=>{o.r(t),o.d(t,{$$typeof:()=>a,__esModule:()=>s,default:()=>d});let r=(0,o(6843).createProxy)(String.raw`C:\Dev\blanco\src\app\game\gameComponent.tsx`),{__esModule:s,$$typeof:a}=r,d=r.default}};
